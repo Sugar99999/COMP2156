@@ -1,0 +1,21 @@
+{
+  "name": "ta17d",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Warning: No test created yet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sugar99999/COMP2156.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Sugar99999/COMP2156/issues"
+  },
+  "homepage": "https://github.com/Sugar99999/COMP2156#readme"
+}
