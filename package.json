@@ -4,17 +4,18 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "echo \"Error: no test specified\"",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
-  },
+  "start": "react-scripts start",
+  "build": "react-scripts build",
+  "test": "echo \"Error: no test specified\"",
+  "eject": "react-scripts eject",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Sugar99999/COMP2156.git"
   },
+  "homepage": "https://Sugar99999.github.io/COMP2156",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
